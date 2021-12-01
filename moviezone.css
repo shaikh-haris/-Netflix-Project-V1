@@ -105,3 +105,11 @@ background-color:#181818;
 
 
 
+html{
+    overflow: scroll;
+    overflow-x: hidden;
+}
+
+::-webkit-scrollbar{
+    width: 5px;
+}
